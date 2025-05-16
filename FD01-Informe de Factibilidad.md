@@ -51,13 +51,10 @@
    1.4 [Objetivos](#14-objetivos)  
    - 1.4.1 [Objetivo general](#141-objetivo-general)  
    - 1.4.2 [Objetivos específicos](#142-objetivos-específicos)  
-
 2. [Riesgos](#2-riesgos)  
-
 3. [Análisis de la situación actual](#3-análisis-de-la-situación-actual)  
    3.1 [Planteamiento del problema](#31-planteamiento-del-problema)  
    3.2 [Consideraciones de hardware y software](#32-consideraciones-de-hardware-y-software)  
-
 4. [Estudio de Factibilidad](#4-estudio-de-factibilidad)  
    4.1 [Factibilidad técnica](#41-factibilidad-técnica)  
    4.2 [Factibilidad económica](#42-factibilidad-económica)  
@@ -70,14 +67,11 @@
    4.4 [Factibilidad legal](#44-factibilidad-legal)  
    4.5 [Factibilidad social](#45-factibilidad-social)  
    4.6 [Factibilidad ambiental](#46-factibilidad-ambiental)  
-
 5. [Análisis financiero](#5-análisis-financiero)  
    5.1 [Justificación de la inversión](#51-justificación-de-la-inversión)  
    - 5.1.1 [Beneficios del proyecto](#511-beneficios-del-proyecto)  
    - 5.1.2 [Criterios de inversión](#512-criterios-de-inversión)  
-
 6. [Conclusiones](#6-conclusiones)
-  
 
 
 # 1. Descripción del Proyecto
