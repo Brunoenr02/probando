@@ -63,6 +63,7 @@
    - 4.2.3 [Costos del ambiente](#423-costos-del-ambiente)  
    - 4.2.4 [Costos de personal](#424-costos-de-personal)  
    - 4.2.5 [Costos totales del desarrollo del sistema](#425-costos-totales-del-desarrollo-del-sistema)  
+   
    4.3 [Factibilidad operativa](#43-factibilidad-operativa)  
    4.4 [Factibilidad legal](#44-factibilidad-legal)  
    4.5 [Factibilidad social](#45-factibilidad-social)  
